@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-D:\.NET_Projects\ModerDesignWPF\ModernDesign\ModernDesign\obj\Debug\
+D:\.NET_Projects\ModerDesignWPF\ModernDesign\obj\Debug\
 ModernDesign
 none
 false
 DEBUG;TRACE
-D:\.NET_Projects\ModerDesignWPF\ModernDesign\ModernDesign\App.xaml
-1219584333
+D:\.NET_Projects\ModerDesignWPF\ModernDesign\App.xaml
+51712525198
 
-6-502434485
+13-1446861359
 13-1310406943
-MainWindow.xaml;
+MainWindow.xaml;MVMM\View\DiscoveryView.xaml;MVMM\View\HomeView.xaml;Theme\CustomTextBoxTheme.xaml;Theme\MenuButtonTheme.xaml;
 
 True
 
